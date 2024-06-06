@@ -1,0 +1,18 @@
+.key-problems {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .problem-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .problem-item {
+    width: 30%;
+  }
+  .details
+  {
+    font-family: Proxima nova,sans-serif;
+    text-align: left;
+  }
